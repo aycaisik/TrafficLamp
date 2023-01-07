@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD67617129698368000D0805 /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD67617029698368000D0805 /* InputViewController.swift */; };
 		FDA05DB729696FF7001B1854 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA05DB629696FF7001B1854 /* AppDelegate.swift */; };
 		FDA05DB929696FF7001B1854 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA05DB829696FF7001B1854 /* SceneDelegate.swift */; };
 		FDA05DBB29696FF7001B1854 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA05DBA29696FF7001B1854 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD67617029698368000D0805 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 		FDA05DB329696FF7001B1854 /* TrafficLamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDA05DB629696FF7001B1854 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDA05DB829696FF7001B1854 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FDA05DBF29696FF9001B1854 /* Assets.xcassets */,
 				FDA05DC129696FF9001B1854 /* LaunchScreen.storyboard */,
 				FDA05DC429696FF9001B1854 /* Info.plist */,
+				FD67617029698368000D0805 /* InputViewController.swift */,
 			);
 			path = TrafficLamp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				FDA05DBB29696FF7001B1854 /* ViewController.swift in Sources */,
 				FDA05DB729696FF7001B1854 /* AppDelegate.swift in Sources */,
 				FDA05DB929696FF7001B1854 /* SceneDelegate.swift in Sources */,
+				FD67617129698368000D0805 /* InputViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
